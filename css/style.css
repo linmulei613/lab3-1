@@ -24,13 +24,13 @@ padding: 20px;
 .header {
 grid-area: header;
 padding: 20px;
-background-color: aquamarine;
+background-color: rgb(101, 253, 203);
 }
 
 .nav {
 grid-area: nav;
 padding: 20px;
-background-color: rgb(137, 222, 222);
+background-color: rgb(144, 246, 246);
 }
 
 
